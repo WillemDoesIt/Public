@@ -1,0 +1,1 @@
+This repo will exist to be a sync of my /Public folder on my desktop, This is my complete directory public directory, hosting and linking everything I choose to share to everyone. This is different form my [personal website](willemdoesnt.neocities.org) which non-indexed pages and will have token controlled viewership, thus not fully private.
